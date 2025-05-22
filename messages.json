@@ -10,5 +10,9 @@
   {
     "role": "user",
     "content": "CREATE WHAT IS IN THE DOC"
+  },
+  {
+    "role": "user",
+    "content": "MAKE A PAGE SIMILAR TO THE ONE IN IMAGE"
   }
 ]
