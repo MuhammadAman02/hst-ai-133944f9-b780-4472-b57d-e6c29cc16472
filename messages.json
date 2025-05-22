@@ -14,5 +14,9 @@
   {
     "role": "user",
     "content": "MAKE A PAGE SIMILAR TO THE ONE IN IMAGE"
+  },
+  {
+    "role": "ai_message",
+    "content": "I apologize, but I don't see any image attached to your message. Without a reference image, I can't create a page similar to it. However, I can help you create a beautiful and functional page based on a general description or theme if you provide one. \n\nCould you please describe the kind of page you'd like to create? Or if you intended to upload an image, could you try uploading it again and then describe what you see in the image? Once I have more information, I'll be happy to help you create a page that meets your needs."
   }
 ]
